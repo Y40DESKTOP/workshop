@@ -1,0 +1,10 @@
+²éÕÒ£º egrep -wi --color 'CatPsuedoTrig' ./ -r -n
+
+×ª»»£º parsemseed test.mseed -D >***.txt 2>&1
+
+scp ¨Cr ad7606_tcp_server  root@192.168.1.34:/
+
+sinffwave WAVE_RING
+
+/etc/network/interfaces
+
